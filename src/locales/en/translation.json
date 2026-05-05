@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "home": "Home",
+    "aboutUs": "Profile",
+    "dikdas": "Basic Education",
+    "prasekolah": "Preschool",
+    "ppi": "PPI",
+    "konten": "Content",
+    "berita": "News",
+    "articles": "Articles",
+    "galeri": "Gallery",
+    "liveStreaming": "Live Streaming",
+    "agenda": "Agenda",
+    "profile": "Profile",
+    "artikelkajian": "Articles",
+    "artikelinfo": "Info",
+    "liputan": "News",
+    "education": "Education",
+    "business": "Business",
+    "institution": "Institution",
+    "videokajian": "Kajian Videos",
+    "kajian": "Kajian",
+    "jenjang": "Levels"
+  },
+  "status": {
+    "active": "Watch the stream!",
+    "unactive": "No Streaming"
+  },
+  "ekonomi": "<ul><li>1. Realizing the economy as a form of practicing Islamic values (sharia economy).</li><br><li>2. Making the economy a sustainable and applicable medium for Islamic propagation (dakwah).</li><br><li>3. Achieving independence and prosperity for the ummah through various programs and business activities. Kopontren Fat-hiyyah Idrisiyyah, BMT Idrisiyyah, Qini Mart (Mini Market), Qini Center, Qini Vaname (Shrimp Farm), Depo Qini (Fisheries), Qini Minang (Restaurant), Plantations, UKM Stalls, Idrisiyyah Entrepreneurs Association (API), Umrah Travel, and various other economic activities.</li><br></ul>",
+  "pendidikan": "<ol><li>To establish an educational institution based on the values of Sufism.</li><li>To produce an excellent generation with noble character, multi-intelligence, and independence.</li><li>To improve human resources with a productive work ethic and professionalism based on the values of Faith, Islam, and Ihsan.</li></ol><br><p>Preschool education is the basic foundation for the development of cognitive, affective, psychomotor, creativity, and adaptation to social environments. In addition, preschool education also supports the physical and spiritual growth of students outside the family environment before entering basic education. The target of the Idrisiyyah Education Division for preschool education is to nurture children with noble character, intelligence, and creativity from an early age, based on faith, Islam, and ihsan. The number of Preschool Education Institutions under the Idrisiyyah Education Division is 15 institutions, consisting of Early Childhood Education (PAUD), Kids Center, Raudhatul Athfal (RA), as well as Kindergarten and Quran Education Centers (TKQ and TPQ).</p><br><p>Basic education provides knowledge and skills, fostering the fundamental attitudes necessary in society, and preparing students to continue on to secondary education. Basic education is held to provide the basic provisions necessary for life in society, including the development of attitudes, knowledge, and basic skills. The target of Idrisiyyah basic education graduates is to create a generation of righteous, intelligent, and noble Muslims, based on faith, Islam, and ihsan. The number of basic education institutions under the Idrisiyyah Education Division is 10, consisting of Diniyah Takmiliyah Awaliyah (DTA) and Integrated Islamic Elementary Schools (SDIT) spread across various zawiyahs.</p><br><p>Pondok Pesantren is a model of education where students are required to live together and study under the guidance of teachers and live in dormitories for the students' accommodation. The students reside within the complex, which also provides a mosque for worship, classrooms for study, and other religious activities. The pesantren system applied at the Idrisiyyah Education Division is intended for middle school and high school level students. The target of Idrisiyyah pesantren graduates is to become pious individuals with strong and correct aqeedah and to become Islamic preachers to all of humanity. The number of secondary education institutions with the pesantren system under the Idrisiyyah Education Division is 6 institutions, consisting of Pondok Pesantren, MTs, MA, SMK, SMP IT, and SMA IT.</p><br><p>Ma'had Aly is an Islamic higher education institution that offers academic education in the mastery of Islamic religious sciences (tafaqquh fiddin) based on traditional Islamic texts taught in pesantren. The target of Idrisiyyah Ma’had Aly graduates is to create Islamic cadres who are deeply knowledgeable in Islamic jurisprudence and to become preachers and teachers within the community, with comprehensive mastery of Sufism. Legally, Ma’had Aly is equivalent to a bachelor’s degree institution (Strata 1) and its graduates are entitled to earn the S.Ag. degree. Idrisiyyah Ma’had Aly received its operational license through Decree No. 2971/2018 with the specialization program “Tashawwuf Wa Thariqatuhu” (Sufism and Its Pathways).</p><br><p>The Student Association under the Idrisiyyah Tariqah aims to create a new generation of Islamic scholars and national leaders with academic excellence, along with emotional and spiritual development through the tarekat methodology or Sufi knowledge. In addition to addressing modern challenges, FKMI cadres are also equipped with entrepreneurship skills, making them mentally resilient and independent in economic matters.</p><br><p>PAUD: 62822 1675 7070 | SDIT: 62823 1833 5455 | PESANTREN IDRISIYYAH: 0265 421142, 62822 3104 5865 | MAHAD 'ALY: 0265 7296524, 6285721184863 | email: divpendidikanidrisiyyah@gmail.com</p><br>",
+  "lembaga": "<ol><li>To create social justice in terms of legal protection and certainty.</li><li>To resolve legal issues through litigation or non-litigation by prioritizing Sufi values.</li><li>To create a civil society that is law-conscious.</li></ol><br><p>Legal assistance program for clients to resolve cases outside the court through mediation at the police or outside the police.</p><p>Legal assistance program for clients to resolve cases in court, including district court, high court, Supreme Court, religious court, military court, Administrative Court, Industrial Court, both domestically and internationally.</p><p>Legal Education Program in terms of legal understanding in seminars with residents inside and outside the Idrisiyyah foundation.</p><p>As a corporate legal partner in business units or companies that require legal drafting, legal reasoning, legal advisors, thereby strengthening the company in terms of law.</p><p>Identifying networks with OMBUDSMAN, KOMPOLNAS, KOMNASHAM, YLBH, PBH, KPK, KPAI, BNN, Advocates Association both national and international, Curators Association, Indonesian Legal Consultants Association, Tax Consultants Association, and community leaders.</p><p>Attending training organized by legal experts both domestically and abroad.</p>",
+  "title": {
+    "site": "Idrisiyyah Order",
+    "desc": "The Media of Sufism Movement",
+    "section": {
+      "profile": "PROFILE",
+      "artikelkajian": "ARTICLES",
+      "liputan": "COVERAGE",
+      "education": "EDUCATION",
+      "business": "BUSINESS",
+      "institution": "INSTITUTION",
+      "followKami": "FOLLOW US",
+      "aboutPesantren": "ABOUT IDRISIYYAH PESANTREN",
+      "agenda": "AGENDA",
+      "noSpeaker": "No speaker information",
+      "videokajian": "STUDY VIDEOS",
+      "kajian": "STUDY",
+      "sorotan": "HIGHLIGHTS",
+      "infografik": "INFOGRAPHIC",
+      "liveStreaming": "LIVE STREAMING",
+      "popularNews": "POPULAR NEWS",
+      "berita": "NEWS",
+      "artikel": "ARTICLES"
+    }
+  },
+  "buttontext": "See More",
+  "selengkapnya": "Read more",
+  "lebihsedikit": "See less",
+  "cari": "Search Study...",
+  "judul": {
+    "about": "ABOUT IDRISIYYAH PESANTREN",
+    "information": "LEVELS",
+    "socialMedia": "SOCIAL MEDIA",
+    "prasekolah": "PRESCHOOL",
+    "dikdas": "BASIC EDUCATION",
+    "ppi": "PPI"
+  },
+  "subs": {
+    "history": "History",
+    "organization": "Organization",
+    "lineage": "Lineage",
+    "legal": "Legal Status",
+    "editorial": "Editorial",
+    "visionMission": "Vision & Mission",
+    "privacyPolicy": "Privacy Policy",
+    "disclaimer": "Disclaimer",
+    "youtube": "Youtube",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "telegram": "Telegram",
+    "twitter": "Twitter"
+  },
+  "days": {
+    "ahad": "Sunday",
+    "senin": "Monday",
+    "selasa": "Tuesday",
+    "rabu": "Wednesday",
+    "kamis": "Thursday",
+    "jumat": "Friday",
+    "sabtu": "Saturday"
+  },
+  "bagikan": "Share"
+}

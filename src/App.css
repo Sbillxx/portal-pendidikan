@@ -1,0 +1,39 @@
+.card img {
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.content-body a {
+  color: #2563eb; /* Biru */
+  text-decoration: underline;
+}
+.content-body a:hover {
+  color: #1d4ed8; /* Biru lebih gelap saat hover */
+}
+
+/* Optional: Tambahkan placeholder background selama loading */
+.card img:not([src]) {
+  background-color: #f3f4f6;
+}
+
+.animation-pulse {
+    /*box-shadow: 0 0 0 20px rgba(229,62,62, 0.5);
+    transform: scale(0.8);*/
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(0.8);
+        box-shadow: 0 0 0 0 rgba(229, 62, 62, 1);
+    }
+
+    70% {
+        transform: scale(1);
+        box-shadow: 0 0 0 8px rgba(229, 62, 62, 0);
+    }
+
+    100% {
+        transform: scale(0.8);
+    }
+}

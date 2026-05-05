@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksekolah_web=self.webpackChunksekolah_web||[]).push([[375],{375:(e,a,s)=>{s.r(a),s.d(a,{default:()=>t});s(2483);var l=s(6723);const t=e=>{let{getDate:a,konteks:s}=e;return(0,l.jsxs)("div",{className:"tanggal flex flex-col gap-2",children:[(0,l.jsxs)("p",{className:"text-sm font-medium",children:["Tanggal ",s]}),(0,l.jsx)("input",{type:"date",className:"rounded-lg border-gray-300 bg-gray-50",onChange:e=>a(e.target.value),name:"tanggal"})]})}}}]);
+//# sourceMappingURL=375.5b05a774.chunk.js.map

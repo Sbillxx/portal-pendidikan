@@ -1,0 +1,258 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  ul {
+    @apply list-inside;
+  }
+  ol {
+    @apply list-decimal;
+  }
+  h1 {
+    @apply text-2xl;
+  }
+  h2 {
+    @apply text-xl;
+  }
+  h2 {
+    @apply text-lg;
+  }
+}
+
+.content-body a {
+  color: #2563eb; /* Biru */
+  text-decoration: underline;
+}
+.content-body a:hover {
+  color: #1d4ed8; /* Biru lebih gelap saat hover */
+}
+
+@layer components {
+  .content-body ul {
+    list-style-type: disc;
+    padding-left: 1rem; /* supaya bullet nggak mepet */
+    margin-bottom: 1rem;
+  }
+
+  .content-body ol {
+    list-style-type: decimal;
+    padding-left: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .content-body li {
+    margin-bottom: 0.5rem;
+  }
+}
+
+@layer utilities {
+  * {
+    scroll-behavior: smooth;
+  }
+  #main::-webkit-scrollbar {
+    display: none;
+  }
+  .text-8xl-regular {
+    @apply font-Montserrat text-8xl font-normal tracking-[-0.04em] leading-[110%];
+  }
+  .text-8xl-medium {
+    @apply font-Montserrat text-8xl font-medium tracking-[-0.04em] leading-[110%];
+  }
+  .text-8xl-semibold {
+    @apply font-Montserrat text-8xl font-semibold tracking-[-0.04em] leading-[110%];
+  }
+  .text-8xl-bold {
+    @apply font-Montserrat text-8xl font-bold tracking-[-0.04em] leading-[110%];
+  }
+
+  .text-7xl-regular {
+    @apply font-Montserrat text-[76px] font-normal tracking-[-0.04em] leading-[110%];
+  }
+  .text-7xl-medium {
+    @apply font-Montserrat text-[76px] font-medium tracking-[-0.04em] leading-[110%];
+  }
+  .text-7xl-semibold {
+    @apply font-Montserrat text-[76px] font-semibold tracking-[-0.04em] leading-[110%];
+  }
+  .text-7xl-bold {
+    @apply font-Montserrat text-[76px] font-bold tracking-[-0.04em] leading-[110%];
+  }
+
+  .text-6xl-regular {
+    @apply font-Montserrat text-[62px] font-normal tracking-[-0.04em] leading-[110%];
+  }
+  .text-6xl-medium {
+    @apply font-Montserrat text-[62px] font-medium tracking-[-0.04em] leading-[110%];
+  }
+  .text-6xl-semibold {
+    @apply font-Montserrat text-[62px] font-semibold tracking-[-0.04em] leading-[110%];
+  }
+  .text-6xl-bold {
+    @apply font-Montserrat text-[62px] font-bold tracking-[-0.04em] leading-[110%];
+  }
+
+  .text-5xl-regular {
+    @apply font-Montserrat text-5xl font-normal tracking-[-0.025em] leading-[110%];
+  }
+  .text-5xl-medium {
+    @apply font-Montserrat text-5xl font-medium tracking-[-0.025em] leading-[110%];
+  }
+  .text-5xl-semibold {
+    @apply font-Montserrat text-5xl font-semibold tracking-[-0.025em] leading-[110%];
+  }
+  .text-5xl-bold {
+    @apply font-Montserrat text-5xl font-bold tracking-[-0.025em] leading-[110%];
+  }
+
+  .text-4xl-regular {
+    @apply font-Montserrat text-[38px] font-normal tracking-[-0.025em] leading-[110%];
+  }
+  .text-4xl-medium {
+    @apply font-Montserrat text-[38px] font-medium tracking-[-0.025em] leading-[110%];
+  }
+  .text-4xl-semibold {
+    @apply font-Montserrat text-[38px] font-semibold tracking-[-0.025em] leading-[110%];
+  }
+  .text-4xl-bold {
+    @apply font-Montserrat text-[38px] font-bold tracking-[-0.025em] leading-[110%];
+  }
+
+  .text-3xl-regular {
+    @apply font-Montserrat text-[32px] font-normal tracking-[-0.025em] leading-[120%];
+  }
+  .text-3xl-medium {
+    @apply font-Montserrat text-[32px] font-medium tracking-[-0.025em] leading-[120%];
+  }
+  .text-3xl-semibold {
+    @apply font-Montserrat text-[32px] font-semibold tracking-[-0.025em] leading-[120%];
+  }
+  .text-3xl-bold {
+    @apply font-Montserrat text-[32px] font-bold tracking-[-0.025em] leading-[120%];
+  }
+
+  .text-2xl-regular {
+    @apply font-Montserrat text-[24px] font-normal tracking-[-0.015em] leading-[120%];
+  }
+  .text-2xl-medium {
+    @apply font-Montserrat text-[24px] font-medium tracking-[-0.015em] leading-[120%];
+  }
+  .text-2xl-semibold {
+    @apply font-Montserrat text-[24px] font-semibold tracking-[-0.015em] leading-[120%];
+  }
+  .text-2xl-bold {
+    @apply font-Montserrat text-[24px] font-bold tracking-[-0.015em] leading-[120%];
+  }
+
+  .text-xl-regular {
+    @apply font-Montserrat text-[20px] font-normal tracking-[-0.015em] leading-[150%];
+  }
+  .text-xl-medium {
+    @apply font-Montserrat text-[20px] font-medium tracking-[-0.015em] leading-[150%];
+  }
+  .text-xl-semibold {
+    @apply font-Montserrat text-[20px] font-semibold tracking-[-0.015em] leading-[150%];
+  }
+  .text-xl-bold {
+    @apply font-Montserrat text-[20px] font-bold tracking-[-0.015em] leading-[150%];
+  }
+
+  .text-lg-regular {
+    @apply font-Montserrat text-[18px] font-normal tracking-[-0.015em] leading-[160%];
+  }
+  .text-lg-medium {
+    @apply font-Montserrat text-[18px] font-medium tracking-[-0.015em] leading-[160%];
+  }
+  .text-lg-semibold {
+    @apply font-Montserrat text-[18px] font-semibold tracking-[-0.015em] leading-[160%];
+  }
+  .text-lg-bold {
+    @apply font-Montserrat text-[18px] font-bold tracking-[-0.015em] leading-[160%];
+  }
+
+  .text-base-regular {
+    @apply font-Montserrat text-[16px] font-normal tracking-[-0.015em] leading-[160%];
+  }
+  .text-base-medium {
+    @apply font-Montserrat text-[16px] font-medium tracking-[-0.015em] leading-[160%];
+  }
+  .text-base-semibold {
+    @apply font-Montserrat text-[16px] font-semibold tracking-[-0.015em] leading-[160%];
+  }
+  .text-base-bold {
+    @apply font-Montserrat text-[16px] font-bold tracking-[-0.015em] leading-[160%];
+  }
+
+  .text-small-regular {
+    @apply font-Montserrat text-[14px] font-normal tracking-[0.005em] leading-[160%];
+  }
+  .text-small-medium {
+    @apply font-Montserrat text-[14px] font-medium tracking-[0.005em] leading-[160%];
+  }
+  .text-small-semibold {
+    @apply font-Montserrat text-[14px] font-semibold tracking-[0.005em] leading-[160%];
+  }
+  .text-small-bold {
+    @apply font-Montserrat text-[14px] font-bold tracking-[0.005em] leading-[160%];
+  }
+
+  .text-xs-regular {
+    @apply font-Montserrat text-[12px] font-normal tracking-[0.005em] leading-[160%];
+  }
+  .text-xs-medium {
+    @apply font-Montserrat text-[12px] font-medium tracking-[0.005em] leading-[160%];
+  }
+  .text-xs-semibold {
+    @apply font-Montserrat text-[12px] font-semibold tracking-[0.005em] leading-[160%];
+  }
+  .text-xs-bold {
+    @apply font-Montserrat text-[12px] font-bold tracking-[0.005em] leading-[160%];
+  }
+}
+
+@layer components {
+  .badge {
+    @apply cursor-pointer text-small-medium w-fit bg-idi-900 rounded-md py-2 px-4 text-white font-medium;
+  }
+  .children-container {
+    @apply flex flex-col gap-8 w-11/12 lg:max-w-[1300px] lg:px-5 mx-auto pt-[100px] font-Montserrat relative;
+  }
+  .card-ls-button-active {
+    @apply rounded-lg px-4 py-3 text-center text-small-semibold bg-idi-800 hover:bg-idi-900 text-white;
+  }
+  .card-ls-button {
+    @apply rounded-lg px-4 py-3 text-center text-small-semibold bg-neutral-300 hover:bg-neutral-300 text-neutral-600;
+  }
+  .language-dropdown {
+    @apply w-max border-none focus:ring-0 outline-none ring-0 rounded-md bg-transparent dark:text-slate-300;
+  }
+  .language-options {
+    @apply text-small-medium bg-neutral-100 dark:bg-neutral-800 dark:text-neutral-400 border-none py-4 text-neutral-700;
+  }
+  .menu-container {
+    @apply rounded-lg bg-white dark:bg-neutral-900 p-2 flex lg:hidden items-center flex-col gap-0.5;
+  }
+  .menu-strip {
+    @apply p-0.5 w-5 rounded-full bg-idi-800;
+  }
+  .sidebar-navigation-active {
+    @apply bg-neutral-300 text-neutral-700 dark:text-slate-300 dark:bg-slate-700;
+  }
+  .table-container {
+    @apply overflow-x-auto border border-neutral-300 dark:border-slate-800 rounded-md shadow-md;
+  }
+  .table-badge {
+    @apply text-slate-800 uppercase px-2 py-1 bg-slate-200 dark:bg-slate-500 dark:text-slate-300 rounded-full text-xs w-fit;
+  }
+}
+
+.card img {
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+/* Optional: Tambahkan placeholder background selama loading */
+.card img:not([src]) {
+  background-color: #f3f4f6;
+}

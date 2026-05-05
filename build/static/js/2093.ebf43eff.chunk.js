@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksekolah_web=self.webpackChunksekolah_web||[]).push([[2093],{2093:(e,s,a)=>{a.r(s),a.d(s,{default:()=>h});var l=a(5327),c=a(6723);const h=e=>{let{itemName:s,func:a}=e;return(0,c.jsxs)(l.Fc,{color:"success",onDismiss:()=>a,children:[(0,c.jsx)("span",{className:"font-medium",children:"Berhasil!"})," ",s," telah berhasil di tambahkan"]})}}}]);
+//# sourceMappingURL=2093.ebf43eff.chunk.js.map

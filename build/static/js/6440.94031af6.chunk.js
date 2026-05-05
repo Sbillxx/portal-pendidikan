@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksekolah_web=self.webpackChunksekolah_web||[]).push([[6440],{6440:(e,s,a)=>{a.r(s),a.d(s,{default:()=>o});var l=a(3376),t=a(6723);const o=()=>localStorage.getItem("token")?(0,t.jsx)(l.sv,{}):(0,t.jsx)(l.C5,{to:"/adminlogin",replace:!0})}}]);
+//# sourceMappingURL=6440.94031af6.chunk.js.map

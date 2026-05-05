@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksekolah_web=self.webpackChunksekolah_web||[]).push([[4076],{4076:(e,n,s)=>{s.r(n),s.d(n,{default:()=>c});var a=s(6021),l=s(6723);const c=()=>{const{setLanguage:e}=(0,a.Bd)();return(0,l.jsxs)("div",{className:"flex gap-3",children:[(0,l.jsx)("button",{onClick:()=>e("en"),children:"English"}),(0,l.jsx)("button",{onClick:()=>e("ar"),children:"arab"}),(0,l.jsx)("button",{onClick:()=>e("id"),children:"Indonesia"})]})}}}]);
+//# sourceMappingURL=4076.2628378c.chunk.js.map

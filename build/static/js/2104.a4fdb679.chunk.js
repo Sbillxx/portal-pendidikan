@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksekolah_web=self.webpackChunksekolah_web||[]).push([[2104],{2104:(e,a,l)=>{l.r(a),l.d(a,{default:()=>r});var s=l(5724),n=l(5327),h=l(6723);const r=e=>{let{label:a,value:l,handleChange:r,name:t,type:u,error:c}=e;return(0,h.jsxs)("div",{className:"flex flex-col gap-3",children:[(0,h.jsx)(n.JU,{htmlFor:t,value:a}),(0,h.jsx)(n.ks,{onChange:r,name:t,value:l,type:u||s.Qq,sizing:"md"})]})}}}]);
+//# sourceMappingURL=2104.a4fdb679.chunk.js.map

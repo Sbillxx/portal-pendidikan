@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksekolah_web=self.webpackChunksekolah_web||[]).push([[3972],{3972:(e,s,l)=>{l.r(s),l.d(s,{default:()=>c});l(2483),l(8698);var a=l(6723);const c=()=>(0,a.jsx)("div",{class:"pr-1",children:(0,a.jsx)("div",{class:"flex justify-center items-center ",children:(0,a.jsx)("div",{class:"h-2 w-2 bg-red-600 rounded-full  animation-pulse"})})})}}]);
+//# sourceMappingURL=3972.d43c54b0.chunk.js.map
