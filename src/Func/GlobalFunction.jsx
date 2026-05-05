@@ -1,7 +1,7 @@
 import axios from "axios";
 import "moment/locale/id";
 import moment from "moment";
-import parse from "html-react-parser";
+
 import { useEffect, useState, useMemo, useCallback } from "react";
 import { useNavigate } from "react-router-dom";
 import { useTranslation } from "react-i18next";
